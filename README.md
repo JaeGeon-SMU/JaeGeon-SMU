@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeGeon-SMU&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaeGeon-SMU&repo=springpractice)](https://github.com/JaeGeon-SMU/springpractice)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeGeon-SMU)](https://github.com/JaeGeon-SMU/github-readme-stats)
