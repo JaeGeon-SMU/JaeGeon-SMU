@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff423463-88a1-44f7-b14e-e7942bbddc28" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/ff423463-88a1-44f7-b14e-e7942bbddc28/public_url
 <!--
 **JaeGeon-SMU/JaeGeon-SMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
